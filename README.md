@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 GreenHabit
 
-## Getting Started
+A simple and elegant website that promotes sustainable living through everyday eco-friendly habits.
 
-First, run the development server:
+GreenHabit helps users build small, consistent habits like reducing waste, saving water, conserving energy, and protecting nature. The goal is to make sustainability practical, accessible, and part of daily life.
 
-```bash
+---
+
+## 🚀 Live Demo
+
+---
+
+## ✨ Features
+
+- 🌱 Eco-friendly habit suggestions  
+- 💧 Water conservation tips  
+- ♻️ Waste reduction practices  
+- 💡 Energy-saving ideas  
+- 🚀 Interactive eco challenges  
+- 📖 Informative blog section  
+- 🎨 Clean and modern UI  
+
+---
+
+## 🧠 Concept
+
+Sustainability often feels overwhelming.  
+GreenHabit simplifies it by focusing on small actions that create long-term impact.
+
+"Small habits → Big impact"
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js  
+- React  
+- Tailwind CSS  
+
+---
+
+## 📂 Project Structure
+
+greenhabit/
+ ├── src/
+ │   ├── app/
+ │   │   ├── page.js
+ │   │   ├── about/
+ │   │   ├── blog/
+ │   │   ├── contact/
+ │   │   └── start/
+ │   ├── components/
+ ├── public/
+ ├── package.json
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+git clone https://github.com/your-username/greenhabit.git
+
+2. Navigate to project
+cd greenhabit
+
+3. Install dependencies
+npm install
+
+4. Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. Open in browser
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🎯 Project Goal
 
-## Learn More
+To encourage people to adopt simple, sustainable habits and contribute to a greener future.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚧 Future Improvements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- User progress tracking  
+- Habit analytics dashboard  
+- Reminders & notifications  
+- Community features  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contributions are welcome!
+
+1. Fork the repo  
+2. Create a new branch  
+3. Make changes  
+4. Submit a pull request  
+
+---
+
+## 🙌 Acknowledgement
+
+Built with a vision to make sustainability simple and accessible for everyone.
