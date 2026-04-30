@@ -8,6 +8,8 @@ GreenHabit helps users build small, consistent habits like reducing waste, savin
 
 ## 🚀 Live Demo
 
+https://green-habit-phi.vercel.app/
+
 ---
 
 ## ✨ Features
@@ -86,17 +88,6 @@ To encourage people to adopt simple, sustainable habits and contribute to a gree
 - Habit analytics dashboard  
 - Reminders & notifications  
 - Community features  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repo  
-2. Create a new branch  
-3. Make changes  
-4. Submit a pull request  
 
 ---
 
